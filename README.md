@@ -50,8 +50,8 @@ _🦌 网页小游戏 🥛_
 
    ```json
    {
-     "game-title": "新概念音游",
-     "game-intro1": "从最底下的开始",
+     "game-title": "暴打老六",
+     "game-intro1": "从最底下开始暴打老六",
      "game-intro2": "看你能得多少分",
      "text-level-1": "试着好好练一下?",
      "text-level-2": "TCL",
